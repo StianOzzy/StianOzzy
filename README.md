@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently studying Computer Engineering<br>I am trade certified within Comput Electronics
+# Stian Ozzy Olin
+Studying Computer Engineering<br> Trade certified within Computer Electronics
 
 
 # 💻 Tech Stack:
