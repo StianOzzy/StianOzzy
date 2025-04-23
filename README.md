@@ -1,5 +1,5 @@
 # Stian Ozzy Olin
-📌Studying Computer Engineering<br> 📌Licenced Computer Electrician<br> 📌Trade/Craft Certificate (Computer Electronics)
+📌Studying Computer Engineering<br> 📌Licenced Computer Electrician<br> 📌Trade/Craft Certificate (Computer Electronics)<br> 📌Educated Radar technician
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
